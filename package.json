@@ -1,0 +1,14 @@
+{
+  "name": "blockChain",
+  "version": "1.0.0",
+  "description": "blockchain experiment",
+  "main": "index.js",
+  "repository": "https://github.com/ceponatia/blockChain",
+  "author": "Brian Grubba",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.5.4"
+  }
+}
